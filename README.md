@@ -1,2 +1,3 @@
-# node-scripts
-Utility script written in node.js
+# Awet-Scripts
+
+Utility scripts collection
